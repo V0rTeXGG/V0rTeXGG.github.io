@@ -174,10 +174,11 @@
         justify-content: flex-end;
         align-items: flex-end;
         margin-top: 10px;
+        gap: 20px;
     }
 
     .nav__item__link {
-        font-size: 28px;
+        font-size: 22px;
     }
 
     .nav__link-page {
