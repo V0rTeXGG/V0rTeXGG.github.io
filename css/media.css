@@ -40,6 +40,10 @@
 
 @media(max-width: 980px) {
 
+    body{
+        overflow-x: hidden;
+    }
+    
     .hero__title {
         font-size: 76px;
     }
