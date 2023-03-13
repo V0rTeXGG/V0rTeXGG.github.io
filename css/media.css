@@ -159,10 +159,9 @@
         bottom: 0;
         height: 100vh;
         padding-right: 30px;
-        overflow-x: hidden;
         border-top: 2px solid var(--color-black-main);
         background-color: var(--color-white);
-        transition: .3s ease-in-out;    
+        transition: all .3s ease-in-out;    
     }
 
     .menu-bar {
