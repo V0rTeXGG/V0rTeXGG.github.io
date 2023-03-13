@@ -1013,7 +1013,7 @@ body {
 
 .accordion__title {
     font-size: 20px;
-    -webkit-text-fill-color:var(--color-subcolor-grey);
+    -webkit-text-fill-color:var(--color-black-main);
 }
 
 .accordion__icon {
